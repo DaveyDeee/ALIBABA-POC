@@ -1,0 +1,4 @@
+test_case,solution,score,queries_used,time_ms,memory_kb
+test_1,solution_correct,850,15,120,2048
+test_1,solution_greedy,650,12,80,1024
+test_1,solution_dp,900,18,200,4096
