@@ -1,0 +1,83 @@
+
+{
+  "problem_name": "DavidsDynamicGraph",
+  "problem_type": "interactive_multi_objective",
+  "difficulty": "advanced",
+  "estimated_time": "2-4 hours",
+  "constraints": {
+    "graph_size": {
+      "min": 5,
+      "max": 25
+    },
+    "query_budget": "4*n + 20",
+    "resource_budget": "2*n",
+    "vertex_weights": {
+      "min": 1,
+      "max": 100
+    },
+    "edge_weights": {
+      "min": 1,
+      "max": 50
+    },
+    "capacity_constraints": {
+      "min": 1,
+      "max": 20
+    },
+    "minimum_colors": 3
+  },
+  "phases": {
+    "discovery": "T1 = n",
+    "adversarial": "T2 = 2*n", 
+    "optimization": "T3 = 3*n"
+  },
+  "query_types": {
+    "STRUCTURE": {
+      "cost": 1,
+      "description": "Get neighbors and edge weights for vertex"
+    },
+    "COLOR_CHECK": {
+      "cost": 2,
+      "description": "Check if set can be k-colored properly"
+    },
+    "DOMINATION_WEIGHT": {
+      "cost": 3,
+      "description": "Get total weight of dominating set"
+    },
+    "DISTANCE_MATRIX": {
+      "cost": 5,
+      "description": "Get all-pairs shortest paths within set"
+    },
+    "ADVERSARY_PREDICT": {
+      "cost": 10,
+      "description": "Get hint about adversary's next move"
+    }
+  },
+  "scoring": {
+    "base_score": 1000,
+    "color_penalty": 50,
+    "domination_penalty": 10,
+    "resource_waste_penalty": 5,
+    "violation_penalty": 100
+  },
+  "test_cases": {
+    "total": 45,
+    "small_graphs": "n=5-8",
+    "medium_graphs": "n=9-18", 
+    "large_graphs": "n=19-25",
+    "graph_types": ["complete", "tree", "cycle", "sparse", "bipartite", "random"],
+    "adversarial_patterns": ["predictable", "random", "adaptive"]
+  },
+  "objectives": [
+    "k_coloring_minimization",
+    "weighted_domination_minimization", 
+    "resource_allocation_optimization"
+  ],
+  "algorithmic_techniques": [
+    "multi_phase_strategy",
+    "game_theory",
+    "multi_objective_optimization",
+    "resource_management",
+    "dynamic_programming",
+    "approximation_algorithms"
+  ]
+}

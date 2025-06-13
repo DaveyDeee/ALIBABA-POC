@@ -1,0 +1,6 @@
+**Plan:** 1
+
+**Explanation:**  
+The concept of rectangles covering each other was actually the very first problem I tackled after joining Turing. I ended up developing at least four different solutions to make sure I could handle even the largest test cases. Along the way, I studied various algorithms used by other developers to solve this problem, comparing their approaches and performance. So, the core problem, and the algorithms for solving it, were already familiar to me well before this project.
+Once I settled on the main algorithm, I decided to adapt the problem into a new scenario: rectangles positioned up in the sky, like flying ducks. To make it more engaging, I added a bit of drama to the narrative. I even considered including factors like speed and timing, but I realized the core problem was already quite challenging, especially for LLM models. The real difficulty comes from efficiency and the need to handle a huge number of rectangles, where even well-known efficient algorithms can struggle.
+To prepare, I revisited the rectangle coverage problem and thoroughly reviewed different solutions, looking at statistics and comparing runtimes. Some approaches solved it much faster than others, and after careful comparison, I chose the best-performing algorithm. I then further modified and optimized it to fit my specific use case.

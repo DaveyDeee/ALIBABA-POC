@@ -1,0 +1,12 @@
+[
+  {
+    "testcase_id": 1,
+    "time": 0.85,
+    "space": 128
+  },
+  {
+    "testcase_id": 2,
+    "time": 1.4,
+    "space": 190
+  }
+]

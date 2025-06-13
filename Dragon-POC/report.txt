@@ -1,0 +1,2256 @@
+Source code : solution_01.cpp
+Binary: solution_01
+Input : test_01.in
+Output: test_01.out
+Result Yes Yes CORRECT
+Input : test_02.in
+Output: test_02.out
+Result Yes Yes CORRECT
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result Yes Yes CORRECT
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result Yes Yes CORRECT
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result Yes Yes CORRECT
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result Yes Yes CORRECT
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result Yes Yes CORRECT
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result Yes Yes CORRECT
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result Yes Yes CORRECT
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result Yes Yes CORRECT
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result Yes Yes CORRECT
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_01, Passed test cases 45/46
+Source code : solution_02.cpp
+Binary: solution_02
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_02, Passed test cases 33/46
+Source code : solution_03.cpp
+Binary: solution_03
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result No Yes ERROR <=====================
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result No Yes ERROR <=====================
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result No Yes ERROR <=====================
+Result for qwen_binaries/solution_03, Passed test cases 31/46
+Source code : solution_04.cpp
+Binary: solution_04
+Input : test_01.in
+Output: test_01.out
+Result Yes Yes CORRECT
+Input : test_02.in
+Output: test_02.out
+Result Yes Yes CORRECT
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result No Yes ERROR <=====================
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_04, Passed test cases 35/46
+Source code : solution_05.cpp
+Binary: solution_05
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_05, Passed test cases 33/46
+Source code : solution_06.cpp
+Binary: solution_06
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result Yes Yes CORRECT
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_06, Passed test cases 34/46
+Source code : solution_07.cpp
+Binary: solution_07
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result No Yes ERROR <=====================
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result No Yes ERROR <=====================
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result No Yes ERROR <=====================
+Result for qwen_binaries/solution_07, Passed test cases 30/46
+Source code : solution_08.cpp
+Binary: solution_08
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_08, Passed test cases 33/46
+Source code : solution_09.cpp
+Binary: solution_09
+Input : test_01.in
+Output: test_01.out
+Result Yes Yes CORRECT
+Input : test_02.in
+Output: test_02.out
+Result Yes Yes CORRECT
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result Yes Yes CORRECT
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result Yes Yes CORRECT
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result Yes Yes CORRECT
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result Yes Yes CORRECT
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result Yes Yes CORRECT
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result Yes Yes CORRECT
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result Yes Yes CORRECT
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result Yes Yes CORRECT
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result Yes Yes CORRECT
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_09, Passed test cases 45/46
+Source code : solution_10.cpp
+Binary: solution_10
+Input : test_01.in
+Output: test_01.out
+Result NONE Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result NONE Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result NONE Yes ERROR <=====================
+Input : test_04.in
+Output: test_04.out
+Result NONE No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result NONE No ERROR <=====================
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result NONE No ERROR <=====================
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result NONE No ERROR <=====================
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result NONE No ERROR <=====================
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result NONE No ERROR <=====================
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result NONE No ERROR <=====================
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result NONE No ERROR <=====================
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result NONE No ERROR <=====================
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result NONE No ERROR <=====================
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result NONE No ERROR <=====================
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result NONE No ERROR <=====================
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result NONE No ERROR <=====================
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result NONE No ERROR <=====================
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result NONE No ERROR <=====================
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result NONE No ERROR <=====================
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result NONE No ERROR <=====================
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result NONE No ERROR <=====================
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result NONE No ERROR <=====================
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result NONE No ERROR <=====================
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result NONE No ERROR <=====================
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result NONE No ERROR <=====================
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result NONE No ERROR <=====================
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result NONE No ERROR <=====================
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result NONE No ERROR <=====================
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result NONE Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result NONE No ERROR <=====================
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result NONE No ERROR <=====================
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result NONE Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result NONE Yes ERROR <=====================
+Result for qwen_binaries/solution_10, Passed test cases 0/46
+Source code : solution_11.cpp
+Binary: solution_11
+Input : test_01.in
+Output: test_01.out
+Result Yes Yes CORRECT
+Input : test_02.in
+Output: test_02.out
+Result Yes Yes CORRECT
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result Yes Yes CORRECT
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result Yes Yes CORRECT
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result Yes Yes CORRECT
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result Yes Yes CORRECT
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result Yes Yes CORRECT
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result Yes Yes CORRECT
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result Yes Yes CORRECT
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result Yes Yes CORRECT
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result Yes Yes CORRECT
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_11, Passed test cases 45/46
+Source code : solution_12.cpp
+Binary: solution_12
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result Yes Yes CORRECT
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_12, Passed test cases 34/46
+Source code : solution_13.cpp
+Binary: solution_13
+Input : test_01.in
+Output: test_01.out
+Result Yes Yes CORRECT
+Input : test_02.in
+Output: test_02.out
+Result Yes Yes CORRECT
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result Yes No ERROR <=====================
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result No Yes ERROR <=====================
+Result for qwen_binaries/solution_13, Passed test cases 34/46
+Source code : solution_14.cpp
+Binary: solution_14
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result No No CORRECT
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result No Yes ERROR <=====================
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result No Yes ERROR <=====================
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_14, Passed test cases 32/46
+Source code : solution_15.cpp
+Binary: solution_15
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result No Yes ERROR <=====================
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result No Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result No Yes ERROR <=====================
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result No Yes ERROR <=====================
+Result for qwen_binaries/solution_15, Passed test cases 30/46
+Source code : solution_16.cpp
+Binary: solution_16
+Input : test_01.in
+Output: test_01.out
+Result No Yes ERROR <=====================
+Input : test_02.in
+Output: test_02.out
+Result No Yes ERROR <=====================
+Input : test_03.in
+Output: test_03.out
+Result Yes Yes CORRECT
+Input : test_04.in
+Output: test_04.out
+Result Yes No ERROR <=====================
+Input : test_big.in
+Output: test_big.out
+Result  Yes ERROR <=====================
+Input : test_gen_01.in
+Output: test_gen_01.out
+Result No No CORRECT
+Input : test_gen_02.in
+Output: test_gen_02.out
+Result No No CORRECT
+Input : test_gen_03.in
+Output: test_gen_03.out
+Result No No CORRECT
+Input : test_gen_04.in
+Output: test_gen_04.out
+Result No No CORRECT
+Input : test_gen_05.in
+Output: test_gen_05.out
+Result Yes Yes CORRECT
+Input : test_gen_06.in
+Output: test_gen_06.out
+Result Yes Yes CORRECT
+Input : test_gen_07.in
+Output: test_gen_07.out
+Result No No CORRECT
+Input : test_gen_08.in
+Output: test_gen_08.out
+Result Yes Yes CORRECT
+Input : test_gen_09.in
+Output: test_gen_09.out
+Result Yes Yes CORRECT
+Input : test_gen_10.in
+Output: test_gen_10.out
+Result No No CORRECT
+Input : test_gen_11.in
+Output: test_gen_11.out
+Result No No CORRECT
+Input : test_gen_12.in
+Output: test_gen_12.out
+Result No No CORRECT
+Input : test_gen_13.in
+Output: test_gen_13.out
+Result No No CORRECT
+Input : test_gen_14.in
+Output: test_gen_14.out
+Result No No CORRECT
+Input : test_gen_15.in
+Output: test_gen_15.out
+Result No No CORRECT
+Input : test_gen_16.in
+Output: test_gen_16.out
+Result No Yes ERROR <=====================
+Input : test_gen_17.in
+Output: test_gen_17.out
+Result No No CORRECT
+Input : test_gen_18.in
+Output: test_gen_18.out
+Result Yes Yes CORRECT
+Input : test_gen_19.in
+Output: test_gen_19.out
+Result No No CORRECT
+Input : test_gen_20.in
+Output: test_gen_20.out
+Result No No CORRECT
+Input : test_gen_21.in
+Output: test_gen_21.out
+Result No Yes ERROR <=====================
+Input : test_gen_22.in
+Output: test_gen_22.out
+Result No No CORRECT
+Input : test_gen_23.in
+Output: test_gen_23.out
+Result No No CORRECT
+Input : test_gen_24.in
+Output: test_gen_24.out
+Result No No CORRECT
+Input : test_gen_25.in
+Output: test_gen_25.out
+Result No No CORRECT
+Input : test_gen_26.in
+Output: test_gen_26.out
+Result No No CORRECT
+Input : test_gen_27.in
+Output: test_gen_27.out
+Result No No CORRECT
+Input : test_gen_28.in
+Output: test_gen_28.out
+Result No No CORRECT
+Input : test_gen_29.in
+Output: test_gen_29.out
+Result No No CORRECT
+Input : test_gen_30.in
+Output: test_gen_30.out
+Result No Yes ERROR <=====================
+Input : test_gen_31.in
+Output: test_gen_31.out
+Result No Yes ERROR <=====================
+Input : test_gen_32.in
+Output: test_gen_32.out
+Result No Yes ERROR <=====================
+Input : test_gen_33.in
+Output: test_gen_33.out
+Result No Yes ERROR <=====================
+Input : test_gen_34.in
+Output: test_gen_34.out
+Result No No CORRECT
+Input : test_gen_35.in
+Output: test_gen_35.out
+Result No Yes ERROR <=====================
+Input : test_gen_36.in
+Output: test_gen_36.out
+Result No No CORRECT
+Input : test_gen_37.in
+Output: test_gen_37.out
+Result No Yes ERROR <=====================
+Input : test_gen_38.in
+Output: test_gen_38.out
+Result No No CORRECT
+Input : test_gen_39.in
+Output: test_gen_39.out
+Result No No CORRECT
+Input : test_gen_40.in
+Output: test_gen_40.out
+Result No Yes ERROR <=====================
+Input : test_sample.in
+Output: test_sample.out
+Result Yes Yes CORRECT
+Result for qwen_binaries/solution_16, Passed test cases 33/46
